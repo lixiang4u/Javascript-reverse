@@ -71,3 +71,7 @@ eval(function (p, a, c, k, e, d) {
 
 - 不管什么代码，`Javascript VM`会解析成`真实`源码，只要想办法拿到`Javascript VM`数据即可
 
+```code
+1、控制台日志
+2、构造错误/异常
+```
